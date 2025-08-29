@@ -29,8 +29,8 @@ Built with React, Leaflet, and Tailwind CSS for a clean, responsive UI.
 
 ## ⚡ Screenshots
 
-![OverLook View](screenshots/overLook.png)
-![Main View](screenshots/mainScreen.png)
+![OverLook View](screenshot/overLook.png)
+![Main View](screenshot/mainScreen.png)
 
 
 
